@@ -7,3 +7,4 @@ for j in dict.values():
     c.append(j)
 print(b)
 print(c)
+
